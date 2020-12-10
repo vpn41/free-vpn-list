@@ -1,1 +1,11 @@
-# free-vpn-list
+# This is the free of charge or cheap VPN services list
+- https://vpn4test.com
+- https://protonvpn.com
+- https://www.vpnbook.com/freevpn
+- https://nordvpn.com
+- https://www.gethotspotshield.com
+- https://surfshark.com
+- https://vpnhub.com
+- https://www.tunnelbear.com
+- https://windscribe.com
+- https://speedify.com
