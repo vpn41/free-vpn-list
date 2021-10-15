@@ -1,5 +1,6 @@
 # This is the free of charge or cheap VPN services list
 - https://vpn4test.com
+- https://en.finevpn.org
 - https://protonvpn.com
 - https://www.vpnbook.com/freevpn
 - https://nordvpn.com
